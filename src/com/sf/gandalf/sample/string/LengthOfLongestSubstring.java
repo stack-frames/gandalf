@@ -1,6 +1,6 @@
 package com.sf.gandalf.sample.string;
 
-public class LengthOfLonggestSubstring {
+public class LengthOfLongestSubstring {
 
 // Java program to find the length of the
 // longest substring without repeating
